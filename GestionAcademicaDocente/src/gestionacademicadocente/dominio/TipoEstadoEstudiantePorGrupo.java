@@ -1,0 +1,15 @@
+package gestionacademicadocente.dominio;
+
+public class TipoEstadoEstudiantePorGrupo {
+	private String nombre;
+
+
+
+	public String getNombre() {
+		return nombre;
+	}
+
+	public void setNombre(String nombre) {
+		this.nombre = nombre;
+	}
+}
